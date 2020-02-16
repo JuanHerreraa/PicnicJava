@@ -10,7 +10,7 @@ little more to say, basic program to understand its operation.
 --
 Programa echo en JAVA (MVC) - BD (DERBI).
 
-Programa echo en mi tecnicatura, con el objetivo de aprender JAVA MODELO VISTA CONTROLADOR. 
+Programa echo en mi tecnicatura, con el objetivo de aprender JAVA MODELO VISTA CONTROLADOR. TAMBIEN USE Jpa persistence .
 Con funciones ABM (ALTA BAJA MODIFICACION).
 
-poco mas que decir, programa basico para entender su funcionamiento.
+poco mas que decir, programa basico para entender su funcionamiento. 
